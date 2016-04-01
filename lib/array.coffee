@@ -1,4 +1,4 @@
-if typeof Array::last is 'undefined'
+if typeof(Array::last) is 'undefined'
   Object.defineProperty Array.prototype, 'last',
     enumerable: false
     value: (filter) ->
