@@ -1,10 +1,10 @@
 {
-    "name": "irc.js",
-    "version": "0.1.3",
-    "description": "IRC client library",
-    "author": "Einar Otto Stangvik <einaros@gmail.com>",
-    "repository": "git://github.com/einaros/node-irc.git",
-    "devDependencies": {
-        "mocha": "latest"
-    }
+  "name": "irc.js",
+  "version": "0.1.3",
+  "description": "IRC client library",
+  "author": "Einar Otto Stangvik <einaros@gmail.com>",
+  "repository": "git://github.com/einaros/node-irc.git",
+  "devDependencies": {
+    "mocha": "latest"
+  }
 }
